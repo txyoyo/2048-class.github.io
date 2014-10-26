@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 120px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -82,7 +82,7 @@ h1.title {
     font-weight: bold;
     color: rgba(119, 110, 101, 0.9);
     z-index: 100;
-    -webkit-animation: move-up 600ms ease-in;
+    -webkit-animation: move-up 2600ms ease-in;
     -moz-animation: move-up 600ms ease-in;
     animation: move-up 600ms ease-in;
     -webkit-animation-fill-mode: both;
